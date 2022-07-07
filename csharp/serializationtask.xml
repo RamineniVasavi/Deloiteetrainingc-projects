@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <age>20</age>
+  <name>vasavi</name>
+  <city>tpt</city>
+</Person>
